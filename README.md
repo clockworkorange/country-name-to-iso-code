@@ -4,7 +4,7 @@ It's a simple groovy script that convert country name to ISO code
 ## Usage
 ### For a country name 🇪🇸
 ```
-groovy Converter.groovy 
+groovy Converter.groovy Spain
 ```
 ### For several countries 🇪🇸 🇪🇹
 ```
